@@ -10,6 +10,8 @@ namespace Tracy
 {
     public partial class frmPartInfo : Form
     {
+        //Lam viec voi GIT
+
         //親フォームForm1へイベント発生を連絡（デレゲート）
         public delegate void RefreshEventHandler(object sender, EventArgs e);
         public event RefreshEventHandler RefreshEvent;
