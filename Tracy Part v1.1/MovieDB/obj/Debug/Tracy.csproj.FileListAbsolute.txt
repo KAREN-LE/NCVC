@@ -176,3 +176,6 @@ C:\Users\mt-qc20\Desktop\Tracy Part v1.1\MovieDB\obj\Debug\Tracy.csproj.Generate
 C:\Users\mt-qc20\Desktop\Tracy Part v1.1\MovieDB\obj\Debug\Tracy.frmLogin.resources
 C:\Users\mt-qc20\Desktop\Tracy Part v1.1\MovieDB\obj\Debug\Tracy.frmPartInfo.resources
 C:\Users\mt-qc20\Desktop\Tracy Part v1.1\MovieDB\obj\Debug\Tracy.frmMain.resources
+D:\GIT HUB\NCVC_GIT\Tracy Part v1.1\MovieDB\obj\Debug\Tracy.csproj.ResolveComReference.cache
+D:\GIT HUB\NCVC_GIT\Tracy Part v1.1\MovieDB\obj\Debug\Tracy.exe
+D:\GIT HUB\NCVC_GIT\Tracy Part v1.1\MovieDB\obj\Debug\Tracy.pdb

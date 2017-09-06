@@ -353,7 +353,7 @@ namespace Tracy
             // 
             // txtRemark
             // 
-            this.txtRemark.Location = new System.Drawing.Point(950, 43);
+            this.txtRemark.Location = new System.Drawing.Point(950, 32);
             this.txtRemark.Multiline = true;
             this.txtRemark.Name = "txtRemark";
             this.txtRemark.Size = new System.Drawing.Size(188, 78);
@@ -362,7 +362,7 @@ namespace Tracy
             // label18
             // 
             this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(948, 18);
+            this.label18.Location = new System.Drawing.Point(947, 16);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(50, 13);
             this.label18.TabIndex = 50;
