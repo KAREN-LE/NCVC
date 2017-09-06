@@ -353,7 +353,7 @@ namespace Tracy
             // 
             // txtRemark
             // 
-            this.txtRemark.Location = new System.Drawing.Point(950, 32);
+            this.txtRemark.Location = new System.Drawing.Point(950, 41);
             this.txtRemark.Multiline = true;
             this.txtRemark.Name = "txtRemark";
             this.txtRemark.Size = new System.Drawing.Size(188, 78);
